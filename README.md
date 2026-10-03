@@ -49,7 +49,7 @@ Source: Kaggle
 - `1_Data` — Dataset information
 - `2_Excel` — Data cleaning
 - `3_SQL` — Database creation and SQL analysis
-- `4_PowerBI` — Power BI dashboard file
+- `4_PowerBI` — Power BI dashboard 
 - `5_Dashboard` — Dashboard screenshots
 - `6_Documentation` — Data flow and business insights
 - `7_Presentation` — Project presentation
